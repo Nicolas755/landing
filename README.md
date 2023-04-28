@@ -1,2 +1,2 @@
 # landing
-Esta aqui e uma pagina feita por mim no curso de html e css
+Esta aqui e uma pagina web feita por mim, atraves do curso de programação HTML E CSS
